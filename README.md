@@ -4,7 +4,7 @@
 ## What API was used?
   Unsplash. 
   If you will use this app, please put a key in this file:
-  `<addr>` /src/api/unsplash
+  `git push -u origin main`
 
 ## Available Scripts
 
